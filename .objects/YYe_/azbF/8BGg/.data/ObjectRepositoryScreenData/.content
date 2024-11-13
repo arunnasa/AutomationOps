@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="_cd_91l25Eiw-Z5cZGVdQQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJWSURBVFhHYxgFowAfeOVibPN9Fc+RP3uY75OMdzPf/r2bpf//fgYOqHGkAZDlr5zNPv9Yxvvy9x6W/+RioGPioUYSD2CWv3I2/f99Af9PbAYTi4EOmA81ljiAbDnYAfMEsBpMLEZ2gPaqUB6TFUHLTVYEnzdZHuIAFUYAdMuhDviLzWBiMcwB5kuCZIAWnwbi/yBsvCIYNWSwWQ52wFK+t9gMJhaDHGC0IsgCaOlzmOUYDtgame961i/s6zm/kP/o+MsKodNAQ7CndCSMzXIQ3rdJci3Qwt/IlmM4wKn1a71T65f/WHHL51CoMrwA3eJfe1j+dM+XfaUy2eUSuuU0d8DnXWx/wido/pdosPivPNHlGV0dcH8r1y/rTgOw5WAHTHD6RTcHnNvA/16r1QRuOQgr9TthWE4TB+xZLXRDptEcxXK6OkBjuscldMvp6gCQodqzvZ5LNg6gA0BYd77vF8lmS4QDJjj9QbYYhmnmABA2XBLwTabNBuwA5QnOr5HlYJimDgBbsCzwo1y33WeVSS7X0eXA8sgOkMu+Ua6Qc/0/Jr7xw2BWwTaghv1EYAxLgPi37gK/jVjEUR0gkXa5XjL90n9sWH9O1itsBhCLQRaZrAyqxyYOtR6/A/RmFmJNRMRimEWmy4PCgfzv6OJggM8BujOKMQwlBSNbZLwq1AYoBquWJ0OF6RMCMGCxPEABFCUgGioEcsDFeGyWg7DBnOw32AwmGi8PzoZagxsoJNznAFq2Goh/I1sOwoYLkm5hNZgwBjVC1husDxCAWjMKRgEWwMAAACcjGyqm6EQGAAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='Meet - css-azvh-wjv' /&gt;" Title="Meet - css-azvh-wjv" Url="https://meet.google.com/css-azvh-wjv" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="2b3488f83e56d720b18060a69078c9a2.jpg" xmlns="">04_xqQx6nGU6zm1eCV483BA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

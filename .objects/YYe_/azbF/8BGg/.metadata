@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Meet - css-azvh-wjv",
+  "Type": "Screen",
+  "Id": "8BGgg2ffRkyHYuP8KAZnhA",
+  "Reference": "P1XKWeLcSkyzasWQcB4E2w/8BGgg2ffRkyHYuP8KAZnhA",
+  "ParentRef": "P1XKWeLcSkyzasWQcB4E2w/azbFHrb0LEqHn4g7bpUZpg",
+  "Created": "2024-10-23T11:12:07.7140239Z",
+  "Updated": "2024-10-23T11:12:07.7140239Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
